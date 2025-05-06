@@ -1,16 +1,18 @@
-# restaurant_app
+#  Restaurant App API (Flutter Example)
 
-A new Flutter project.
+contoh aplikasi Flutter sederhana yang menampilkan daftar restoran menggunakan data dari REST API. Menggunakan package [`http`](https://pub.dev/packages/http) untuk melakukan request ke API.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+1. Clone repositori:
+```bash
+git clone https://github.com/riofardinan/restaurant_app_api.git
+cd restaurant_app_api
+```
+2. Pub get:
+```bash
+flutter pub get
+```
+3. Run Flutter:
+```bash
+flutter run
+```
